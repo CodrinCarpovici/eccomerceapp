@@ -3,12 +3,13 @@ import React from "react";
 import styled from "styled-components";
 
 const Container = styled.div`
-  height: 60vh;
+  height: 50vh;
   background-color: #fcf5f5;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  
 `;
 const Title = styled.h1`
   font-size: 70px;
@@ -26,6 +27,7 @@ const InputContainer = styled.div`
   display: flex;
   justify-content: space-between;
   border: 1 px solid lightgray;
+  
 `;
 const Input = styled.input`
   border: none;
