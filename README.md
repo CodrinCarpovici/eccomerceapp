@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# E-commerce App
 
 This project is a UI friendly E-commerce App. 
 
