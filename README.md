@@ -7,5 +7,7 @@ This project is a UI friendly E-commerce App.
 Built Using:
 
 -React
+
 -Styled Components
+
 -Material UI
